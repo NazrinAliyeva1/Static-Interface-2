@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\Static, Interface 2-Task\Static, Interface 2-Task\obj\Debug\net6.0\Static, Interface 2-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\Static, Interface 2-Task\Static, Interface 2-Task\obj\Debug\net6.0\Static, Interface 2-Task.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\Static, Interface 2-Task\Static, Interface 2-Task\obj\Debug\net6.0\Static, Interface 2-Task.AssemblyInfo.cs
+C:\Users\99455\source\repos\Static, Interface 2-Task\Static, Interface 2-Task\obj\Debug\net6.0\Static, Interface 2-Task.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\Static, Interface 2-Task\Static, Interface 2-Task\bin\Debug\net6.0\Static, Interface 2-Task.exe
+C:\Users\99455\source\repos\Static, Interface 2-Task\Static, Interface 2-Task\bin\Debug\net6.0\Static, Interface 2-Task.deps.json
+C:\Users\99455\source\repos\Static, Interface 2-Task\Static, Interface 2-Task\bin\Debug\net6.0\Static, Interface 2-Task.runtimeconfig.json
+C:\Users\99455\source\repos\Static, Interface 2-Task\Static, Interface 2-Task\bin\Debug\net6.0\Static, Interface 2-Task.dll
+C:\Users\99455\source\repos\Static, Interface 2-Task\Static, Interface 2-Task\bin\Debug\net6.0\Static, Interface 2-Task.pdb
+C:\Users\99455\source\repos\Static, Interface 2-Task\Static, Interface 2-Task\obj\Debug\net6.0\Static, Interface 2-Task.dll
+C:\Users\99455\source\repos\Static, Interface 2-Task\Static, Interface 2-Task\obj\Debug\net6.0\refint\Static, Interface 2-Task.dll
+C:\Users\99455\source\repos\Static, Interface 2-Task\Static, Interface 2-Task\obj\Debug\net6.0\Static, Interface 2-Task.pdb
+C:\Users\99455\source\repos\Static, Interface 2-Task\Static, Interface 2-Task\obj\Debug\net6.0\Static, Interface 2-Task.genruntimeconfig.cache
+C:\Users\99455\source\repos\Static, Interface 2-Task\Static, Interface 2-Task\obj\Debug\net6.0\ref\Static, Interface 2-Task.dll
